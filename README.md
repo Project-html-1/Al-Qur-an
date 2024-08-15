@@ -1,3 +1,23 @@
 # Al-Qur-an.github.io
 
 html gabut 👍😁👍
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingat</title>
+</head>
+<body>
+    <link rel="stylesheet" href="c.css">
+    <h1 class="ingat">وأمر عبادي أن يقولوا الحق</h1>
+    <h1 class="arti">Dan suruhlah hamba-hamba-Ku untuk berkata jujur</h1>
+    <h1>-----------------------------</h1>
+    <input type="email" placeholder="Enter Email..." required>
+    <button type="submit" class="button_1">Subscribe</button>
+    <h1>Copyright By &copy Putra M.A</h1>
+    <h1>Yt ku 👇</h1>
+    <a href="https://youtube.com/@yt_pma-official?si=Xm_-aN0OmZ0rI-3a" target="_blank">
+    <h1>pencet</h1>
+</body>
+</html>
